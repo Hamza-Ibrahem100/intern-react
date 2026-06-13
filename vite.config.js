@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss() // تفعيل الإضافة هنا
   ],
-  base: '/intern-react/',
+
 })
